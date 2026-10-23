@@ -1,0 +1,17 @@
+{
+  "accounts": [
+    {"name": "Checking", "balance": 2450.75},
+    {"name": "Savings", "balance": 5200.00},
+    {"name": "Investments", "balance": 3100.00},
+    {"name": "Credit card", "balance": -425.50}
+  ],
+  "transactions": [
+    {"date": "2026-10-22", "merchant": "Campus Cafe", "category": "Dining", "amount": 12.50},
+    {"date": "2026-10-21", "merchant": "Fresh Market", "category": "Groceries", "amount": 68.20},
+    {"date": "2026-10-20", "merchant": "City Transit", "category": "Transport", "amount": 25.00},
+    {"date": "2026-10-18", "merchant": "Tech Store", "category": "Shopping", "amount": 320.00},
+    {"date": "2026-10-15", "merchant": "Music Subscription", "category": "Subscriptions", "amount": 10.99},
+    {"date": "2026-10-10", "merchant": "Noodle House", "category": "Dining", "amount": 23.75},
+    {"date": "2026-09-25", "merchant": "Fresh Market", "category": "Groceries", "amount": 54.30}
+  ]
+}
